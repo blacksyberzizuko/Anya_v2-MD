@@ -22,26 +22,26 @@ global.lApiKey = {// if this API key get expired then please go to https://api.l
 }
 
 
-global.botname = "Queen Anya" 
-global.author = "Enter Author Name Here"  
-global.packname = "𝙌𝙐𝙀𝙀𝙉✯𝘼𝙉𝙔𝘼✯𝘽𝙊𝙏"  
+global.botname = "➠❲📍G-MD BOT📍❳➠" 
+global.author = "|M,R GIHAN|"  
+global.packname = "📍[G-MD]📍"  
 global.myweb = "Enter Your Any Website Profile Link Here"
-global.footer = "©\t" + "Enter Your Watermark Here"
-global.prefa = ['-'] // single prefix
-global.themeemoji = "🎐"
+global.footer = "©\t" + "➠❲📍G-MD BOT GENERATION📍❳➠"
+global.prefa = ['.'] // single prefix
+global.themeemoji = "💃"
 global.socialText = `*⪧⪢ Please join this group for by bot's announcement.*`
-global.socialLink = `*⪧⪢ https://chat.whatsapp.com/HshHS6kHF9NHnA9lfMwwSM 💝*`
+global.socialLink = `*⪧⪢ https://chat.whatsapp.com/FYPYqeucaxr4qwME8G6Tot 💝*`
 
 
-global.ownername = "Enter Owner Name Here"    
-global.ownernumber = ["918811074852"]
-global.ytname = "YT: Enter Your Channel Name Here"
+global.ownername = "❲M,R GIHAN❳"    
+global.ownernumber = ["94783342995"]
+global.ytname = "YT: M,R ZIZU"
 global.continent = "Asia" // your continent name 
-global.region = "Enter Your Country Name Here"
-global.state = "Enter Your State Name Here" // your state name
+global.region = "SRI LANKA"
+global.state = "ANURADHAPURA" // your state name
 global.timezone = "Asia/Kolkata" // search on google if you don't know the timezone of your country //
-global.instagramId = "Enter Your Insta ID Here"
-global.email = "Enter Your Email ID Here"
+global.instagramId = ""
+global.email = "blacksyberzizuko@gmail.com"
 
 
 // Greeting messages
@@ -64,17 +64,17 @@ global.allmenuImg = fs.readFileSync('./AnyaPikaMedia/Allmenu.jpg') // Thumbnail 
 
 global.mess = {
     success: 'Done ✅',
-    admin: 'You must be an admin to use this command.',
-    botAdmin: 'The bot needs to be an admin to process this command.',
-    owner: 'You are not the owner of this bot so you cannot use this command.',
-    group: 'This command is only made for group chats.',
-    private: 'This command is only for private chats.',
-    wait: '```「▰▰▰▱▱▱▱▱▱▱」Loading...```',
-    link: 'I need a link to process this command.',
-    error: '```404 Error```',
-    ban: `You're banned from using this bot!`,
-    nsfw: 'This group is not *NSFW* enabled.',
-    banChat: 'This group is banned from using this bot, please contact owner to get unbanned.'
+    admin: '📍You must be an admin to use this command.',
+    botAdmin: '📍The bot needs to be an admin to process this command.',
+    owner: '📍You are not the owner of this bot so you cannot use this command.',
+    group: '📍This command is only made for group chats.',
+    private: '📍This command is only for private chats.',
+    wait: '📍```「▰▰▰▱▱▱▱▱▱▱」Loading...```',
+    link: '📍I need a link to process this command.',
+    error: '📍```404 Error```',
+    ban: `📍You're banned from using this bot!`,
+    nsfw: '📍This group is not *NSFW* enabled.',
+    banChat: '📍This group is banned from using this bot, please contact owner to get unbanned.'
 }
 
 
